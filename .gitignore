@@ -1,7 +1,56 @@
-__pycache__
-.assets
-.claude
-.caches
-.idea
-.jobs
-.vscode
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+
+# Virtual Environment
+.venv/
+venv/
+ENV/
+
+# Models and Large Files
+.assets/
+*.onnx
+*.pth
+*.pt
+*.bin
+*.safetensors
+*.ckpt
+
+# Outputs
+outputs/
+.test_outputs/
+
+# Temporary Files
+.temp/
+temp/
+*.tmp
+*.log
+app.log
+
+# Cache
+.caches/
+__pycache__/
+*.pyc
+
+# Jobs
+.jobs/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
