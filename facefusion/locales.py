@@ -471,7 +471,7 @@ LOCALES : Locales =\
 		'about':
 		{
 			'fund': '科哥汉化修改 点击获取视频教程->>',
-			'subscribe': '成为会员',
+			'subscribe': '科哥汉化修改 点击获取视频教程->>',
 			'join': '科哥构建修改 点击获取视频教程->>'
 		},
 		'uis':

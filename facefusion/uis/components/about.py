@@ -21,7 +21,7 @@ def render() -> None:
 		},
 		{
 			'translator': translator.get('about.subscribe'),
-			'url': 'https://subscribe.facefusion.io'
+			'url': 'https://g1hzbw0p4dd.feishu.cn/docx/E1bBdyvUroOSh7x69EEc9AyDnDf?from=from_copylink'
 		},
 		{
 			'translator': translator.get('about.join'),
