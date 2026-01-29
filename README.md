@@ -1,11 +1,27 @@
-FaceFusion
+FaceFusion (科哥汉化定制版)
 ==========
 
 > Industry leading face manipulation platform.
 
+**项目地址**: https://github.com/kegeai888/facefusion
+**视频教程**: https://g1hzbw0p4dd.feishu.cn/docx/E1bBdyvUroOSh7x69EEc9AyDnDf?from=from_copylink
+
 [![Build Status](https://img.shields.io/github/actions/workflow/status/facefusion/facefusion/ci.yml.svg?branch=master)](https://github.com/facefusion/facefusion/actions?query=workflow:ci)
 [![Coverage Status](https://img.shields.io/coveralls/facefusion/facefusion.svg)](https://coveralls.io/r/facefusion/facefusion)
 ![License](https://img.shields.io/badge/license-OpenRAIL--AS-green)
+
+## 定制说明
+
+本版本基于 FaceFusion 3.5.2 进行汉化和定制：
+
+- ✓ 处理器名称完全汉化
+- ✓ UI 界面中文化
+- ✓ 自定义品牌和教程链接
+- ✓ 优化默认配置
+- ✓ 完整的中文文档
+
+详细使用说明请查看：[用户使用手册.md](./用户使用手册.md)
+开发记录请查看：[todo.md](./todo.md)
 
 
 Preview
